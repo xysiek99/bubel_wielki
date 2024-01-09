@@ -1,0 +1,37 @@
+branch: main
+type: git
+tool: github
+
+cars:
+  car1:
+    make: Audi
+    model: A3
+    year: 2002
+    engine:
+      type: diesel
+      name: "1.9 TDI"
+      hp: 131
+  car2:
+    make: Audi
+    model: A6
+    year: 2006
+    engine:
+      type: diesel
+      name: "2.7 TDI"
+      hp: 180
+  car3:
+    make: VW
+    model: Polo
+    year: 2002
+    engine:
+      type: petrol
+      name: "1.2 12v"
+      hp: 70
+  car4:
+    make: Fiat
+    model: Panda
+    year: 2009
+    engine:
+      type: petrol
+      name: "1.1 FIRE"
+      hp: 54
