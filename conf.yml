@@ -1,6 +1,8 @@
 branch: main
 type: git
 tool: github
+truck: 4
+license: False
 
 cars:
   car1:
@@ -20,14 +22,6 @@ cars:
       name: "2.7 TDI"
       hp: 180
   car3:
-    make: VW
-    model: Polo
-    year: 2002
-    engine:
-      type: petrol
-      name: "1.2 12v"
-      hp: 70
-  car4:
     make: Fiat
     model: Panda
     year: 2009
