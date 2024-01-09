@@ -42,4 +42,15 @@ jobs:
   job3:
     company: kmd
     experiance: mid
-    salary: 10.5        
+    salary: 10.5
+
+cities:
+  city1:
+    name: kokan
+    rate: 10
+  city2:
+    name: warsaw
+    rate: 0
+  city3:
+    name: gluchone
+    rate: 8
