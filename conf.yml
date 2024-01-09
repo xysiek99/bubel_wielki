@@ -35,3 +35,17 @@ cars:
       type: petrol
       name: "1.1 FIRE"
       hp: 54
+
+jobs:
+  job1:
+    company: ing
+    experiance: mid
+    salary: 13.5
+  job2:
+    company: kolo
+    experiance: senior
+    salary: 17
+  job3:
+    company: kmd
+    experiance: mid
+    salary: 10.5        
